@@ -1,3 +1,9 @@
 [submodule "learning_from_data"]
 	path = learning_from_data
 	url = git@github.com:raghavrv/learning_from_data
+[submodule "math_monk_probability_primer"]
+	path = math_monk_probability_primer
+	url = git@github.com:raghavrv/math_monk_probability_primer.git
+[submodule "math_monk_machine_learning"]
+	path = math_monk_machine_learning
+	url = git@github.com:raghavrv/math_monk_machine_learning.git
